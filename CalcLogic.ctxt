@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CalcLogic
+comment1.params=angka1\ angka2
+comment1.target=float\ tambah(float,\ float)
+comment2.params=angka1\ angka2
+comment2.target=float\ kurang(float,\ float)
+comment3.params=angka1\ angka2
+comment3.target=float\ bagi(float,\ float)
+comment4.params=angka1\ angka2
+comment4.target=float\ kali(float,\ float)
+numComments=5
